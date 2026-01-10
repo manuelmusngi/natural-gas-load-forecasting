@@ -1,6 +1,4 @@
-# NG-SIP
-Natural Gas Scheduling &amp; Imbalance Intelligence Platform
-# NG-SIP: Natural Gas Scheduling & Imbalance Intelligence Platform
+# NG-SIP Natural Gas Scheduling &amp; Imbalance Intelligence Platform
 
 Natural gas desks live at the intersection of **physical constraints**, **market volatility**, and **regulatory scrutiny**. This project is an end‑to‑end, research‑backed decision‑support platform that mirrors the daily workflow of a physical natural gas trader responsible for:
 
