@@ -1,0 +1,18 @@
+training:
+  batch_size: 64
+  num_epochs: 50
+  learning_rate: 0.001
+  weight_decay: 1e-5
+  early_stopping_patience: 7
+  gradient_clip_val: 1.0
+  device: "cuda"   # or "cpu"
+
+incremental:
+  update_frequency: "D"   # daily
+  max_history_days: 365
+  learning_rate: 0.0005
+  num_epochs: 5
+
+backtest:
+  window_size_days: 30
+  step_days: 7
