@@ -48,11 +48,57 @@ Hybrid Ensemble–Deep Learning Model (EL + VMD + Transformer–ResLSTM)
   
 🏗️ 3. Project Structure (Production‑Ready)
 
-
-
-
-
-
+gas-load-forecasting/\
+│
+├── config/\
+│   ├── data_config.yaml\
+│   ├── model_config.yaml\
+│   └── training_config.yaml\
+│
+├── data/\
+│   ├── raw/\
+│   ├── processed/\
+│   └── external/\
+│
+├── notebooks/\
+│   ├── EDA.ipynb\
+│   ├── Feature_Engineering.ipynb\
+│   └── Model_Benchmarking.ipynb\
+│
+├── src/\
+│   ├── data/\
+│   │   ├── load_data.py\
+│   │   ├── preprocess.py\
+│   │   └── feature_engineering.py\
+│   │
+│   ├── models/\
+│   │   ├── lstm_enhanced.py\
+│   │   ├── transformer_reslstm.py\
+│   │   ├── vmd_decomposition.py\
+│   │   ├── ensemble.py\
+│   │   └── baselines.py\
+│   │
+│   ├── training/\
+│   │   ├── train_lstm.py\
+│   │   ├── train_hybrid.py\
+│   │   └── incremental_update.py\
+│   │
+│   ├── evaluation/\
+│   │   ├── metrics.py\
+│   │   └── backtest.py\
+│   │
+│   ├── utils/\
+│   │   ├── logger.py\
+│   │   ├── config_parser.py\
+│   │   └── plotting.py\
+│   │
+│   └── pipeline/\
+│       ├── forecasting_pipeline.py\
+│       └── incremental_pipeline.py\
+│
+├── main.py\
+├── requirements.txt\
+└── README.md
 
 #### License
 This project is licensed under the [MIT License](https://github.com/manuelmusngi/regime_switching_models/edit/main/LICENSE).
