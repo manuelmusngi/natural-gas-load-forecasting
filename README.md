@@ -39,12 +39,9 @@ Hybrid Ensemble–Deep Learning Model (EL + VMD + Transformer–ResLSTM)
 - Outperforms ARIMA, GBM, vanilla LSTM
 - LSTM Gas Forecasting Studies (2023–2024)
   
-Stress importance of:
+- Stress importance of:
 
-Weather integration
-
-Feature engineering
-
-Multi‑step sequence modeling
-
-Hybrid decomposition + deep learning
+  - Weather integration
+  - Feature engineering
+  - Multi‑step sequence modeling
+  - Hybrid decomposition + deep learning
