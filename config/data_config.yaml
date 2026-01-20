@@ -1,0 +1,22 @@
+data_paths:
+  raw: "data/raw/"
+  processed: "data/processed/"
+  external: "data/external/"
+
+dataset:
+  target_column: "gas_load"
+  datetime_column: "timestamp"
+  weather_columns:
+    - "temperature"
+    - "wind_speed"
+    - "humidity"
+  calendar_features: true
+  frequency: "H"   # H for hourly, D for daily
+
+splits:
+  train_start: "2018-01-01"
+  train_end: "2022-12-31"
+  val_start: "2023-01-01"
+  val_end: "2023-06-30"
+  test_start: "2023-07-01"
+  test_end: "2023-12-31"
