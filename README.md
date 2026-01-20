@@ -45,3 +45,15 @@ Hybrid Ensemble–Deep Learning Model (EL + VMD + Transformer–ResLSTM)
   - Feature engineering
   - Multi‑step sequence modeling
   - Hybrid decomposition + deep learning
+  
+🏗️ 3. Project Structure (Production‑Ready)
+
+
+
+
+
+
+
+#### License
+This project is licensed under the [MIT License](https://github.com/manuelmusngi/regime_switching_models/edit/main/LICENSE).
+
