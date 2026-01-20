@@ -51,9 +51,9 @@ Hybrid Ensemble–Deep Learning Model (EL + VMD + Transformer–ResLSTM)
 gas-load-forecasting/\
 │
 ├── config/\
-│   ├── data_config.yaml\
-│   ├── model_config.yaml\
-│   └── training_config.yaml\
+│   ├── [data_config.yaml](https://github.com/manuelmusngi/ng-load-forecasting/blob/main/config/data_config.yaml)\
+│   ├── [model_config.yaml](https://github.com/manuelmusngi/ng-load-forecasting/blob/main/config/model_config.yaml)\
+│   └── [training_config.yaml](https://github.com/manuelmusngi/ng-load-forecasting/blob/main/config/training_config.yaml)\
 │
 ├── data/\
 │   ├── raw/\
@@ -96,7 +96,7 @@ gas-load-forecasting/\
 │       ├── forecasting_pipeline.py\
 │       └── incremental_pipeline.py\
 │
-├── main.py\
+├── [main.py](https://github.com/manuelmusngi/ng-load-forecasting/blob/main/main.py)\
 ├── requirements.txt\
 └── README.md
 
