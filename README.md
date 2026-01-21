@@ -67,7 +67,7 @@ gas-load-forecasting/\
 │
 ├── src/\
 │   ├── data/\
-│   │   ├── load_data.py\
+│   │   ├── [load_data.py](https://github.com/manuelmusngi/natural-gas-load-forecasting/blob/main/src/data/load_data.py)\
 │   │   ├── preprocess.py\
 │   │   └── feature_engineering.py\
 │   │
