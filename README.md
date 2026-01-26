@@ -57,11 +57,6 @@ gas-load-forecasting/\
 │
 ├── data/\
 │
-├── notebooks/\
-│   ├── EDA.ipynb\
-│   ├── Feature_Engineering.ipynb\
-│   └── Model_Benchmarking.ipynb\
-│
 ├── src/\
 │   ├── data/\
 │   │   ├── [load_data.py](https://github.com/manuelmusngi/natural-gas-load-forecasting/blob/main/src/data/load_data.py)\
