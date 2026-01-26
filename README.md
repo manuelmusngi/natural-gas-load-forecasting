@@ -82,7 +82,7 @@ gas-load-forecasting/\
 │   ├── utils/\
 │   │   ├── [logger.py](https://github.com/manuelmusngi/natural-gas-load-forecasting/blob/main/src/utils/logger.py)\
 │   │   ├── [config_parser.py](https://github.com/manuelmusngi/natural-gas-load-forecasting/blob/main/src/utils/config_parser.py)\
-│   │   └── plotting.py\
+│   │   └── [plotting.py](https://github.com/manuelmusngi/natural-gas-load-forecasting/blob/main/src/utils/plotting.py)\
 │   │
 │   └── pipeline/\
 │       ├── [forecasting_pipeline.py](https://github.com/manuelmusngi/natural-gas-load-forecasting/blob/main/src/pipeline/forecasting_pipeline.py)\
