@@ -56,9 +56,6 @@ gas-load-forecasting/\
 │   └── [training_config.yaml](https://github.com/manuelmusngi/ng-load-forecasting/blob/main/config/training_config.yaml)\
 │
 ├── data/\
-│   ├── raw/\
-│   ├── processed/\
-│   └── external/\
 │
 ├── notebooks/\
 │   ├── EDA.ipynb\
