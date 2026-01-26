@@ -76,7 +76,7 @@ gas-load-forecasting/\
 │   │   └── [baselines.py](https://github.com/manuelmusngi/natural-gas-load-forecasting/blob/main/src/models/baselines.py)\
 │   │
 │   ├── training/\
-│   │   ├── train_lstm.py\
+│   │   ├── [train_lstm.py](https://github.com/manuelmusngi/natural-gas-load-forecasting/blob/main/src/training/train_lstm.py)\
 │   │   ├── train_hybrid.py\
 │   │   └── incremental_update.py\
 │   │
