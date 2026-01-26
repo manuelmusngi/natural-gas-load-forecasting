@@ -94,7 +94,7 @@ gas-load-forecasting/\
 │       └── [incremental_pipeline.py](https://github.com/manuelmusngi/natural-gas-load-forecasting/blob/main/src/pipeline/incremental_pipeline.py)\
 │
 ├── [main.py](https://github.com/manuelmusngi/ng-load-forecasting/blob/main/main.py)\
-├── requirements.txt\
+├── [requirements.txt](https://github.com/manuelmusngi/natural-gas-load-forecasting/blob/main/requirements.txt)\
 └── README.md
 
 
