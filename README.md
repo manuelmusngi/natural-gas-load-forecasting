@@ -81,7 +81,7 @@ gas-load-forecasting/\
 │   │   └── [incremental_update.py](https://github.com/manuelmusngi/natural-gas-load-forecasting/blob/main/src/training/incremental_update.py)\
 │   │
 │   ├── evaluation/\
-│   │   ├── metrics.py\
+│   │   ├── [metrics.py](https://github.com/manuelmusngi/natural-gas-load-forecasting/blob/main/src/evaluation/metrics.py)\
 │   │   └── backtest.py\
 │   │
 │   ├── utils/\
