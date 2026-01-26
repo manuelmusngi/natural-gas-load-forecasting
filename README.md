@@ -19,7 +19,7 @@ The system forecasts hourly or daily natural gas consumption for utilities, LDCs
 
 The architecture is designed for operational deployment, research benchmarking, and scalable experimentation.
 
-🧠 2. Research Foundations
+🧠 2. Research References 
 
 Wang et al. (2025)
 Short‑Term Natural Gas Consumption Forecasting Using Enhanced LSTM with Feature Optimization and Incremental Learning
