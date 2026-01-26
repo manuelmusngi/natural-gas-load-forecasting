@@ -90,7 +90,7 @@ gas-load-forecasting/\
 │   │   └── plotting.py\
 │   │
 │   └── pipeline/\
-│       ├── forecasting_pipeline.py\
+│       ├── [forecasting_pipeline.py](https://github.com/manuelmusngi/natural-gas-load-forecasting/blob/main/src/pipeline/forecasting_pipeline.py)\
 │       └── incremental_pipeline.py\
 │
 ├── [main.py](https://github.com/manuelmusngi/ng-load-forecasting/blob/main/main.py)\
