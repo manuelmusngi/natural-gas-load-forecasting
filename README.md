@@ -46,7 +46,7 @@ Hybrid Ensemble–Deep Learning Model (EL + VMD + Transformer–ResLSTM)
   - Multi‑step sequence modeling
   - Hybrid decomposition + deep learning
   
-🏗️ 3. Project Structure (Production‑Ready)
+🏗️ 3. Project Architecture (Production‑Ready)
 
 gas-load-forecasting/\
 │
