@@ -91,7 +91,10 @@ gas-load-forecasting/\
 ├── [main.py](https://github.com/manuelmusngi/ng-load-forecasting/blob/main/main.py)\
 └── [requirements.txt](https://github.com/manuelmusngi/natural-gas-load-forecasting/blob/main/requirements.txt)
 
+📝 Reference
 
+- [Hybrid Deep Learning and Stacking Ensemble Model for Time Series-Based Global Temperature Forecasting](https://www.mdpi.com/2079-9292/14/16/3213#)
+- [Natural Gas Consumption Forecasting Model Based on Feature Optimization and Incremental Long Short-Term Memory](https://www.mdpi.com/1424-8220/25/10/3079)
 
 #### License
 This project is licensed under the [MIT License](https://github.com/manuelmusngi/regime_switching_models/edit/main/LICENSE).
